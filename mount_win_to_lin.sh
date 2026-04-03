@@ -1,7 +1,7 @@
 #!/bin/bash
  
-SHARE="//IP/arcgis_repo"
-MOUNT_POINT="/mnt/arcgis_repo"
+SHARE="//10.23.252.37/Shared_Folder"
+MOUNT_POINT="/mount/shared_folder"
  
 echo "Installing CIFS utilities..."
  
